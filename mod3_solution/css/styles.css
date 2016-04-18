@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Oxygen', sans-serif;
+}
+
+h1 {
+    font-size: 1.75em;
+}
+
+section {
+    background-color: #cfcfcf;
+    border: 1px solid #000000;
+    margin: 0 0 25px 0;
+    padding: 0;
+}
+
+section h3 {
+    font-size: 1.25em;
+}
+
+section p {
+    padding: 0 6px 4px 6px;
+}
+
+#nav-list {
+  margin-top: 50px;
+}
+#nav-list a {
+  color: #red;
+  text-align: center;
+  background: #cfcfcf;
+  border: 1px solid #000;
+}
+#nav-list a:hover {
+  background: white;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
